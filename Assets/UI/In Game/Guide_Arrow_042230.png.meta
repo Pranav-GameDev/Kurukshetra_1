@@ -1,0 +1,1109 @@
+fileFormatVersion: 2
+guid: 0e378421c4a5d0246af042fa7ebcf4ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7776000321214980960
+    second: Guide_Arrow_042230_0
+  - first:
+      213: 1117580674093022002
+    second: Guide_Arrow_042230_1
+  - first:
+      213: 7416037074701607925
+    second: Guide_Arrow_042230_2
+  - first:
+      213: 6499065431101561458
+    second: Guide_Arrow_042230_3
+  - first:
+      213: -4188593183651327194
+    second: Guide_Arrow_042230_4
+  - first:
+      213: -3520282552787360256
+    second: Guide_Arrow_042230_5
+  - first:
+      213: -7172633351628363031
+    second: Guide_Arrow_042230_6
+  - first:
+      213: 368269995718503902
+    second: Guide_Arrow_042230_7
+  - first:
+      213: 3638455883875969399
+    second: Guide_Arrow_042230_8
+  - first:
+      213: -807578248023117457
+    second: Guide_Arrow_042230_9
+  - first:
+      213: -6362402218093513424
+    second: Guide_Arrow_042230_10
+  - first:
+      213: 208773777966180479
+    second: Guide_Arrow_042230_11
+  - first:
+      213: 1018669387658588845
+    second: Guide_Arrow_042230_12
+  - first:
+      213: -2302791143962041856
+    second: Guide_Arrow_042230_13
+  - first:
+      213: 3321626279023056826
+    second: Guide_Arrow_042230_14
+  - first:
+      213: -5769690585823279474
+    second: Guide_Arrow_042230_15
+  - first:
+      213: 8915523524528063922
+    second: Guide_Arrow_042230_16
+  - first:
+      213: 6476878263297462743
+    second: Guide_Arrow_042230_17
+  - first:
+      213: -2523742722383160995
+    second: Guide_Arrow_042230_18
+  - first:
+      213: -3401364641643045416
+    second: Guide_Arrow_042230_19
+  - first:
+      213: 6427908507047012107
+    second: Guide_Arrow_042230_20
+  - first:
+      213: 7800052951631526349
+    second: Guide_Arrow_042230_21
+  - first:
+      213: 8263809459985194409
+    second: Guide_Arrow_042230_22
+  - first:
+      213: 6121779043350691944
+    second: Guide_Arrow_042230_23
+  - first:
+      213: -8826592162299246267
+    second: Guide_Arrow_042230_24
+  - first:
+      213: 7480932144483177609
+    second: Guide_Arrow_042230_25
+  - first:
+      213: -183979093758568910
+    second: Guide_Arrow_042230_26
+  - first:
+      213: -3025547787910213742
+    second: Guide_Arrow_042230_27
+  - first:
+      213: -675059426902048123
+    second: Guide_Arrow_042230_28
+  - first:
+      213: 8065747057510231402
+    second: Guide_Arrow_042230_29
+  - first:
+      213: 992576221779751162
+    second: Guide_Arrow_042230_30
+  - first:
+      213: -5596897432158548009
+    second: Guide_Arrow_042230_31
+  - first:
+      213: -8769349291164350233
+    second: Guide_Arrow_042230_32
+  - first:
+      213: 4138413835646343267
+    second: Guide_Arrow_042230_33
+  - first:
+      213: -7504403383187808895
+    second: Guide_Arrow_042230_34
+  - first:
+      213: -7538578067277930022
+    second: Guide_Arrow_042230_35
+  - first:
+      213: 2696482845027771401
+    second: Guide_Arrow_042230_36
+  - first:
+      213: -5469516485218778847
+    second: Guide_Arrow_042230_37
+  - first:
+      213: -3489181471106195806
+    second: Guide_Arrow_042230_38
+  - first:
+      213: 395878020482802305
+    second: Guide_Arrow_042230_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_0
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 620
+        width: 1710
+        height: 896
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac58a828e8161490800000000000000
+      internalID: -7776000321214980960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_1
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 1514
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bf72fa3b1728f00800000000000000
+      internalID: 1117580674093022002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_2
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 1471
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f367b67d6e0be660800000000000000
+      internalID: 7416037074701607925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_3
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1306
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a54d87391513a50800000000000000
+      internalID: 6499065431101561458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_4
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1314
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62317db01b02fd5c0800000000000000
+      internalID: -4188593183651327194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_5
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 1306
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006aa146ba1752fc0800000000000000
+      internalID: -3520282552787360256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_6
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 1274
+        width: 88
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea621c08ffa57c90800000000000000
+      internalID: -7172633351628363031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_7
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1283
+        width: 58
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd6c342c9b5c1500800000000000000
+      internalID: 368269995718503902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_8
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 1274
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7796b5959546e7230800000000000000
+      internalID: 3638455883875969399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_9
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 908
+        width: 775
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61ff36bcd7eac4f0800000000000000
+      internalID: -807578248023117457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_10
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1218
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f06064e434b7a0800000000000000
+      internalID: -6362402218093513424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_11
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1226
+        width: 124
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78271a15a6b5e200800000000000000
+      internalID: 208773777966180479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_12
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1218
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da274f2396a032e00800000000000000
+      internalID: 1018669387658588845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_13
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 879
+        width: 752
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0022a30c7a7da00e0800000000000000
+      internalID: -2302791143962041856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_14
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 1223
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab795c58089c81e20800000000000000
+      internalID: 3321626279023056826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_15
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1186
+        width: 66
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8686183bf0fdefa0800000000000000
+      internalID: -5769690585823279474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_16
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1195
+        width: 62
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5422ab86d4abb70800000000000000
+      internalID: 8915523524528063922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_17
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1186
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d15b49e67e72e950800000000000000
+      internalID: 6476878263297462743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_18
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 829
+        width: 766
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59dfd78d5dd9fcd0800000000000000
+      internalID: -2523742722383160995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_19
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1183
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddda4f21ecebc0d0800000000000000
+      internalID: -3401364641643045416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_20
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1183
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07af3b0bb4843950800000000000000
+      internalID: 6427908507047012107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 764
+        width: 766
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9fb3345da5f3c60800000000000000
+      internalID: 7800052951631526349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_22
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1171
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad1ee99be2fea270800000000000000
+      internalID: 8263809459985194409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_23
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 789
+        width: 767
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8604958fa9de4f450800000000000000
+      internalID: 6121779043350691944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1071
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54908e49135a18580800000000000000
+      internalID: -8826592162299246267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1061
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98498b4562c91d760800000000000000
+      internalID: 7480932144483177609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_26
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 1071
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2361c6e2dff527df0800000000000000
+      internalID: -183979093758568910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_27
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1039
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f84a221581306d0800000000000000
+      internalID: -3025547787910213742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_28
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1021
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58289312705b1a6f0800000000000000
+      internalID: -675059426902048123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_29
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 1013
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dac03f63a4fef60800000000000000
+      internalID: 8065747057510231402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_30
+      rect:
+        serializedVersion: 2
+        x: 5739
+        y: 995
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af07ea790d656cd00800000000000000
+      internalID: 992576221779751162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_31
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 900
+        width: 354
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfc4e76073d352b0800000000000000
+      internalID: -5596897432158548009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_32
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 877
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e843dc18430d4680800000000000000
+      internalID: -8769349291164350233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_33
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 868
+        width: 364
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368134f05799e6930800000000000000
+      internalID: 4138413835646343267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_34
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 876
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dd9dd02e00bd790800000000000000
+      internalID: -7504403383187808895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_35
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 820
+        width: 362
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1295c5037916790800000000000000
+      internalID: -7538578067277930022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_36
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 828
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904a0d86cd4db6520800000000000000
+      internalID: 2696482845027771401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_37
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 780
+        width: 364
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12144654cbf5814b0800000000000000
+      internalID: -5469516485218778847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_38
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 756
+        width: 354
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae17d140ffe39fc0800000000000000
+      internalID: -3489181471106195806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_39
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 613
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182234156f07e7500800000000000000
+      internalID: 395878020482802305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guide_Arrow_042230_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 528
+        width: 5517
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167621082182aac49b5a1f5ee1671cc1
+      internalID: -1807435556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7bf8ffc0ee30d054e9d7493dfa8c2e2e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Guide_Arrow_042230_40: -1807435556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
