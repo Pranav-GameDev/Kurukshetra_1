@@ -43,3 +43,10 @@ Library/PlayerDataCache/**/*.resS filter=lfs diff=lfs merge=lfs -text
 Library/PackageCache/**/*.dll filter=lfs diff=lfs merge=lfs -text
 Library/PackageCache/**/*.dylib filter=lfs diff=lfs merge=lfs -text
 Library/PackageCache/**/*.so filter=lfs diff=lfs merge=lfs -text
+C:/Users/Pranav_/Documents/Unity[[:space:]]Projects/Kurukshetra[[:space:]]3D/Library/PackageCache/com.unity.burst@1.8.12/.Runtime/burst-llvm-16.dll filter=lfs diff=lfs merge=lfs -text
+C:/Users/Pranav_/Documents/Unity[[:space:]]Projects/Kurukshetra[[:space:]]3D/Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+C:/Users/Pranav_/Documents/Unity[[:space:]]Projects/Kurukshetra[[:space:]]3D/Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+C:/Users/Pranav_/Documents/Unity[[:space:]]Projects/Kurukshetra[[:space:]]3D/Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-16.so filter=lfs diff=lfs merge=lfs -text
+C:/Users/Pranav_/Documents/Unity[[:space:]]Projects/Kurukshetra[[:space:]]3D/Library/PackageCache/com.unity.burst@1.8.12/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+C:/Users/Pranav_/Documents/Unity[[:space:]]Projects/Kurukshetra[[:space:]]3D/Library/PlayerDataCache/Win642/Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+C:/Users/Pranav_/Documents/Unity[[:space:]]Projects/Kurukshetra[[:space:]]3D/Library/PackageCache/com.unity.burst@1.8.12/.Runtime/burst-llvm-16.dll filter=lfs diff=lfs merge=lfs -text
