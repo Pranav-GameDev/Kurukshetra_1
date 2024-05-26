@@ -1,4 +1,4 @@
-![Kuruk Main Logo-small](https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/93d0b4b6-e9ac-48c0-97f7-7966f1b4d81c)
+![Kuruk Main Logo (Custom)](https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/993bd32c-0e5a-4115-bd0b-6fa097fdebf4)
 
 # 🌟 Kurukshetra: Mythical Adventure
 
@@ -26,7 +26,8 @@ Embark on a heroic quest to restore balance to the mystical world of Kurukshetra
 
 ## 🖼️ Screenshots & Video
 
-https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/5870fe6f-2d34-41f4-83e3-e8cb68f5e1b8
+
+https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/4848f05f-7950-4ec2-a41a-8fc8d8998695
 
 
 <p align="center">
