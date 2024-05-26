@@ -1,3 +1,5 @@
+![Kuruk Main Logo](https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/286da6d7-5fa8-4856-8689-dc113db2ebe7)
+
 # 🌟 Kurukshetra: Mythical Adventure
 
 Welcome to **Kurukshetra: Mythical Adventure**, an epic journey through the realms of Indian mythology! Explore ancient lands, battle mythical creatures, and uncover the secrets of the past in this thrilling action-adventure game!
