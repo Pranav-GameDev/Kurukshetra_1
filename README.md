@@ -1,3 +1,5 @@
+![Kuruk Main Logo (Custom)](https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/993bd32c-0e5a-4115-bd0b-6fa097fdebf4)
+
 # 🌟 Kurukshetra: Mythical Adventure
 
 Welcome to **Kurukshetra: Mythical Adventure**, an epic journey through the realms of Indian mythology! Explore ancient lands, battle mythical creatures, and uncover the secrets of the past in this thrilling action-adventure game!
@@ -21,6 +23,40 @@ Embark on a heroic quest to restore balance to the mystical world of Kurukshetra
 1. **Download**: Get the game files from the repository.
 2. **Install**: Install Unity Engine and necessary dependencies.
 3. **Launch**: Run the game executable and start your adventure!
+
+## 🖼️ Screenshots & Video
+
+
+https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/4848f05f-7950-4ec2-a41a-8fc8d8998695
+
+
+<p align="center">
+  <strong>Main Game Video</strong>
+</p>
+
+![Screenshot 2024-05-26 213336](https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/81817ded-d427-40d3-b6da-1b6c915320e4)
+
+<p align="center">
+  <strong>Main Game</strong>
+</p>
+
+![Screenshot 2024-05-26 213146](https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/5b99cfac-27a2-4f66-bedc-241d7d1d5eda)
+
+<p align="center">
+  <strong>Main Menu</strong>
+</p>
+
+![Screenshot 2024-05-26 213415](https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/8557a13e-138d-4b50-bba9-81a9fa08f07e)
+
+<p align="center">
+  <strong>Settings</strong>
+</p>
+
+![Screenshot 2024-05-26 213354](https://github.com/Pranav-GameDev/Kurukshetra_1/assets/144320108/10f620ef-0d24-44d5-840e-4f5f64596a6f)
+
+<p align="center">
+  <strong>Pause Menu</strong>
+</p>
 
 ## 💡 Development Details
 
